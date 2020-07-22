@@ -1,4 +1,4 @@
-#! /usr/bin/python3
+#! /Users/atanu/anaconda3/bin/python3
 # -*- encoding: utf-8 -*-
 #
 # (C) 2019 juergen@fabmail.org
